@@ -1,0 +1,144 @@
+@media screen{
+body{
+    margin: 0;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1280px;
+    height:1818px;
+}
+
+.headerbackground{
+    width: 1280;
+    height: 101;
+    background-color:#2A2A2A
+}
+
+.header1{
+    display:flex;
+}
+
+
+.BGPic2{
+    display: none;
+}
+
+.BGPic3{
+    display: none;
+}
+
+.Logo{
+    display: flex;
+    flex-direction: column;
+    width: 149;
+    height: 68;
+    
+}
+
+.LogoWord{
+    margin-top:16px;
+    
+}
+
+.line{
+    margin-top: 3px;
+    width: 146px;
+    height: 3px;
+    background-color: #FFFFFF;
+    
+}
+
+.menu{
+    margin-top: 25px;
+    margin-left: 65.5px;
+    width: 804px;
+    height: 52px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.login{
+    margin-top: 12px;
+    margin-left: 67px;
+}
+
+.backgroundword{
+    margin-top:274px;
+    margin-left:179px;
+}
+
+
+.background{
+    margin-top: 251px;
+    width:1281px;
+    height: 893px;
+    background-color: #FFFFFF;
+    opacity: 95%;
+}
+
+.picture1{
+    margin-top: 79px;
+    margin-left: 79px;
+}
+
+nav{
+    margin:0;
+    padding:0;
+    display: flex;
+}
+
+.firstcontent{
+    display: flex;
+    flex-direction: column;
+}
+
+.contentheaderword{
+    width: 160px;
+    height: 53px;
+    margin-top: 93px;
+    margin-left: 76px;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+.contentline{
+    width:344px;
+    height: 5px;    
+    margin-top: 0.5px;
+    margin-left: 123px;
+    background-color: #2A2A2A;
+}
+
+.contentword{
+    width:720px;
+    height: 162px;
+    margin-top: 35px;
+    margin-left: 124px;
+    font-size: 20px;
+    font-weight: lighter;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.lastcontentword{
+    margin-top: 172px;
+    margin-left: 124px;
+}
+
+.picture2{
+    margin-left: 191px;
+}
+
+.bottom{
+    width: 1280px;
+    height: 225px;
+    background-color: #2A2A2A;
+}
+}
+

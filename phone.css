@@ -1,0 +1,148 @@
+@media only screen and (max-width: 320px) {
+    body{
+        margin: 0;
+        margin-right: auto;
+        margin-left: auto;
+        width: 320px;
+        height:800px;
+    }
+    
+    .BGPic{
+        display: none;
+        }
+    
+    .BGPic2{
+        display: none;
+        }
+
+    .BGPic3{
+        display: block;
+    }
+    
+    .headerbackground{
+        width: 320px;
+        height: 43px;
+        background-color:#2A2A2A;
+    }
+    
+    .header1{
+        display:none;
+    }
+    
+    
+    .header2{
+        display: none;
+    }
+    
+    .header3{
+        display: block;
+    }
+    
+    .menu3{
+        padding-top: 7px;
+        margin-left: 22px;
+        width: 275px;
+        height: 29px;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .homebox{
+        padding-top: 3px;
+        width: 103px;
+        height: 22px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .backgroundword3{
+        margin-top:53px;
+        margin-left:24px;
+    }
+    
+    .background{
+        margin-top: 56px;
+        width:320px;
+        height: 622px;
+        background-color: #FFFFFF;
+        opacity: 95%;
+    }
+    
+    nav{
+        margin:0;
+        padding:0;
+        display: flex;
+    }
+    
+    .firstcontent{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .secondcontent{
+        display: flex;
+    }
+    
+    .contentheaderword{
+        width: 100px;
+        height: 33px;
+        margin-top: 20px;
+        margin-left: 110px;
+        font-size: 25px;
+        font-weight: bold;
+    }
+    
+    p{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .contentline{
+        width:289px;
+        height: 5px;    
+        margin-top: 10.5px;
+        margin-left: 15.5px;
+        background-color: #2A2A2A;
+    }
+
+    .phonepicture1{
+        margin-top: 26px;
+        margin-left: 16px;
+    }
+
+    .contentword{
+        width:156px;
+        height: 170px;
+        margin-top: 29px;
+        margin-left:16px;
+        font-size: 12px;
+        line-height:21px;
+        font-weight: lighter;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+        
+    .downcontentword{
+        width:288px;
+        height: 38px;
+        margin-top: 8px;
+        margin-left: 16px;
+        font-size: 12px;
+        font-weight: lighter;
+    }
+
+    .phonepicture2{
+        margin-top: 39px;
+        margin-left: 97px;
+    }
+
+    .lastcontentword3{
+        margin-top: 30px;
+        margin-left: 25px;
+    }
+    
+    .bottom{
+    display: none;
+    }
+    }

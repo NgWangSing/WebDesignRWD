@@ -1,0 +1,137 @@
+@media only screen and (min-width: 321px) and (max-width: 768px) {
+body{
+    margin: 0;
+    margin-right: auto;
+    margin-left: auto;
+    width: 768px;
+    height:960px;
+}
+
+.BGPic{
+    display: none;
+    }
+
+.BGPic2{
+    display: block;
+    }
+
+.BGPic3{
+     display: none;
+}
+    
+.headerbackground{
+    width: 768px;
+    height: 101px;
+    background-color:#2A2A2A
+}
+
+.header1{
+    display:none;
+}
+
+.login2{
+    margin-top: 12px;
+    margin-left: 67px;
+}
+
+.header2{
+    display: flex;
+}
+
+.Logopic2{
+    margin-top: 9px;
+    margin-left: 14px;
+    width: 121px;
+    height: 86px;
+}
+
+.menu2{
+    margin-top: 27px;
+    margin-left: 17px;
+    width: 465px;
+    height: 52px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.login2{
+    margin-top: 18px;
+    margin-right: 72px;
+}    
+
+.backgroundword2{
+    margin-top:135px;
+    margin-left:90px;
+}
+
+.background{
+    margin-top: 135px;
+    width:768px;
+    height: 541px;
+    background-color: #FFFFFF;
+    opacity: 95%;
+}
+
+.tabpicture1{
+    margin-top: 129px;
+    margin-left: 18px;
+}
+
+.tabpicture2{
+    margin-top: 129px;
+}
+
+nav{
+    margin:0;
+    padding:0;
+    display: flex;
+}
+
+.firstcontent{
+    display: flex;
+    flex-direction: column;
+}
+
+.contentheaderword{
+    width: 160px;
+    height: 53px;
+    margin-top: 61px;
+    margin-left: 48px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+.contentline{
+    width:289px;
+    height: 5px;    
+    margin-top: 0.5px;
+    margin-left: 129px;
+    background-color: #2A2A2A;
+}
+
+.contentword{
+    width:420px;
+    height: 216px;
+    margin-top: 34.5px;
+    margin-left: 74.5px;
+    font-size: 20px;
+    font-weight: lighter;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.lastcontentword2{
+    margin-top: 34px;
+    margin-left: 60px;
+}
+
+.bottom{
+display: none;
+}
+}
